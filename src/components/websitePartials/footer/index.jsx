@@ -1,16 +1,8 @@
 import footerlogo from "../../../assets/images/logo/logo-white.png";
 import { Link } from "react-router-dom";
 import payments from "../../../assets/images/all-img/footer-payments.png";
-// import Pay from "../../../assets/images/paymentOptions/pay.png";
-// import Payoneer from "../../../assets/images/paymentOptions/payneer.png";
-// import MasterCard from "../../../assets/images/paymentOptions/mastercard.png";
-// import Wire from "../../../assets/images/paymentOptions/wire.png";
-// import Visa from "../../../assets/images/paymentOptions/visa.png";
-// import Paypal from "../../../assets/images/paymentOptions/paypal.png";
-// import GPay from "../../../assets/images/paymentOptions/gpay.png";
-
-import AppStore from "../../../assets/images/app/appStore.png";
-import AppleStore from "../../../assets/images/app/appleStore.png";
+import AppStore from "../../../assets/images/app/appstore.png";
+import AppleStore from "../../../assets/images/app/applestore.png";
 import QrCode from "../../../assets/images/app/qrcode.png";
 import { websiteRoutes } from "../../../constant/routes";
 import { useSelector } from "react-redux";
